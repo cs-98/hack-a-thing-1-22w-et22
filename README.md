@@ -23,13 +23,37 @@ I include a few examples of the PandaStats display and results of running differ
 
 These test cases are more fully described in the associated jupyter notebook. 
 
-### PandaStats Display Before Running Tests
-![Dataset 1]('screenshots\Screenshot (1).png')
+### Dataset 1 - PandaStats Display Before Running Tests
+![Dataset 1](https://github.com/cs-98/hack-a-thing-1-22w-et22/blob/main/screenshots/pre_analysis1.png?raw=true)
 
-<p float="left">
-  <img src="/screenshots/Screenshot (1).png" width="100" />
-  <img src="/screenshots/Screenshot (4).png" width="100" /> 
-</p>
+### Dataset 1 - t-test
+![Dataset 1](https://github.com/cs-98/hack-a-thing-1-22w-et22/blob/main/screenshots/ttest1.png?raw=true)
+
+### Dataset 1 - regression
+![Dataset 1](https://github.com/cs-98/hack-a-thing-1-22w-et22/blob/main/screenshots/regression1.png?raw=true)
+
+### Dataset 1 - wilcoxon
+![Dataset 1](https://github.com/cs-98/hack-a-thing-1-22w-et22/blob/main/screenshots/wilcoxon1.png?raw=true)
+
+### Dataset 2 - PandaStats Display Before Running Tests
+![Dataset 2](https://github.com/cs-98/hack-a-thing-1-22w-et22/blob/main/screenshots/pre_analysis2.png?raw=true)
+
+
+### Dataset 2 - ANOVA
+![Dataset 2](https://github.com/cs-98/hack-a-thing-1-22w-et22/blob/main/screenshots/anova2.png?raw=true)
+
+### Dataset 2 - Spearman Correlation
+![Dataset 2](https://github.com/cs-98/hack-a-thing-1-22w-et22/blob/main/screenshots/corrspear2.png?raw=true)
+
+### Dataset 2 - Pearson Correlation
+![Dataset 2](https://github.com/cs-98/hack-a-thing-1-22w-et22/blob/main/screenshots/corrpear2.png?raw=true)
+
+
+
+
+
+
+
 
 ## Author
 
